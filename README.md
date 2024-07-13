@@ -14,4 +14,4 @@ Have you ever wanted to build computational biology/bioinformatics skills hands 
 + The course will be split into parts consisting of chapters that will each feature a research project that is developed as students work through the chapter. 
 
 ## Table of Contents
-+ [Chapter 0: Getting Started](https://github.com/WillardFord/Intro-to-Bioinformatics-Research/blob/main/Chapter-0.md)
++ [Chapter 0: Getting Started](https://github.com/WillardFord/Intro-to-Bioinformatics-Research/blob/main/chapters/Chapter-0.md)
